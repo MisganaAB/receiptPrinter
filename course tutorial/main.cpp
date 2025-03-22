@@ -8,7 +8,7 @@ using namespace std;
 int main(){
     // display an introductory message
     cout << "this will help you calculate your sales and the give you receipt." << endl;
-    cout << "C++ is the a compiled language"<<endl;
+    cout << "C++ is a compiled language"<<endl;
     const float taxRate = 0.1;
     cout << "product name: ";
     string productName;
